@@ -3,7 +3,7 @@ package aula07.relacionamentoclasses;
 
 /**
  *
- * @author Prisc
+ * @author Priscilla Kusniaruk
  */
 public class Lutador {
     //Atributos
